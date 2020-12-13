@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task3", "Task3\Task3.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task4", "Task4\Task4.csproj", "{C9955B45-8DE5-4177-AA5D-4A38CCB8B2E2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdditonalTask", "AdditonalTask\AdditonalTask.csproj", "{CFD5BD60-DFAC-4A16-A069-EC83900E511A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDecorators", "MyDecorators\MyDecorators.csproj", "{B5720535-AD1D-46CF-BC2C-8295B2B4E8D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{C9955B45-8DE5-4177-AA5D-4A38CCB8B2E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9955B45-8DE5-4177-AA5D-4A38CCB8B2E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9955B45-8DE5-4177-AA5D-4A38CCB8B2E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFD5BD60-DFAC-4A16-A069-EC83900E511A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFD5BD60-DFAC-4A16-A069-EC83900E511A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFD5BD60-DFAC-4A16-A069-EC83900E511A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFD5BD60-DFAC-4A16-A069-EC83900E511A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5720535-AD1D-46CF-BC2C-8295B2B4E8D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5720535-AD1D-46CF-BC2C-8295B2B4E8D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5720535-AD1D-46CF-BC2C-8295B2B4E8D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5720535-AD1D-46CF-BC2C-8295B2B4E8D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
