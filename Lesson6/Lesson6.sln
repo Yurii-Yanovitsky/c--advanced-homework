@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdditionalTask", "AdditionalTask\AdditionalTask.csproj", "{3EEA869F-931C-42DD-876C-D400C0CDBB3E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Task3", "Task3\Task3.csproj", "{ABE1BC4F-71C4-4D28-8AD5-B6E1A8318706}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2", "Task2\Task2.csproj", "{277EA915-3EA7-4116-AE5D-1AFC92C6857C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EEA869F-931C-42DD-876C-D400C0CDBB3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EEA869F-931C-42DD-876C-D400C0CDBB3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EEA869F-931C-42DD-876C-D400C0CDBB3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EEA869F-931C-42DD-876C-D400C0CDBB3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABE1BC4F-71C4-4D28-8AD5-B6E1A8318706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE1BC4F-71C4-4D28-8AD5-B6E1A8318706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE1BC4F-71C4-4D28-8AD5-B6E1A8318706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE1BC4F-71C4-4D28-8AD5-B6E1A8318706}.Release|Any CPU.Build.0 = Release|Any CPU
+		{277EA915-3EA7-4116-AE5D-1AFC92C6857C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{277EA915-3EA7-4116-AE5D-1AFC92C6857C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{277EA915-3EA7-4116-AE5D-1AFC92C6857C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{277EA915-3EA7-4116-AE5D-1AFC92C6857C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73BD30C4-C3D6-43DD-97FD-1EFD2E2AFA67}
+	EndGlobalSection
+EndGlobal
