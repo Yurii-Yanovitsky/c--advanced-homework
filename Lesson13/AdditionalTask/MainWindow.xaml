@@ -1,0 +1,22 @@
+﻿<Window x:Class="AdditionalTask.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AdditionalTask"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="411.819" Width="686.818">
+    <Grid Margin="0,0,3.8,-0.6" Height="383" VerticalAlignment="Bottom">
+        <Button Content="IsCompleted" HorizontalAlignment="Center" VerticalAlignment="Center" Width="199" Height="40
+                " FontSize="16" Margin="437,87,41,256" Click="IsCompleted_Click"/>
+        <Button x:Name="CallBack" Content="CallBack" HorizontalAlignment="Center" VerticalAlignment="Center" Width="199" Height="40
+                " FontSize="16" Margin="437,169,41,174" Click="CallBack_Click"/>
+        <Button x:Name="End" Content="End" HorizontalAlignment="Center" VerticalAlignment="Center" Width="199" Height="40
+                " FontSize="16" Margin="437,244,41,99" Click="End_Click"/>
+        <ProgressBar x:Name="ProgressBar" HorizontalAlignment="Left" Height="26" Margin="437,316,0,0" VerticalAlignment="Top" Width="199" Maximum="40"/>
+        <Label Content="Расчет ряда Фибоначчи" HorizontalAlignment="Left" Margin="42,35,0,0" VerticalAlignment="Top" Width="360" Height="38" FontSize="20"/>
+        <Label Content="Input:" HorizontalAlignment="Left" Margin="437,37,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <TextBox x:Name="InputText" HorizontalAlignment="Left" Height="23" Margin="516,43,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" FontSize="18"/>
+        <TextBox x:Name="TextResult" HorizontalAlignment="Left" Height="255" Margin="42,87,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="360"/>
+    </Grid>
+</Window>
